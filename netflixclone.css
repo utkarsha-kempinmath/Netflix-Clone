@@ -140,8 +140,8 @@ option {
 
 .trends {
     position: relative;
-    top: 110vh;
-    left: -220px;
+    top: 105vh;
+    left: -286px;
     display: flex;
     height: 80px;
     width: 170%;
@@ -156,7 +156,7 @@ option {
 .opts {
     position: relative;
     top: 88vh;
-    left: 57px;
+    left: 96px;
     display: flex;
     gap: 10px;
     z-index: 14;
@@ -165,7 +165,7 @@ option {
 .top10 {
     position: absolute;
     top: 125vh;
-    left: 5.5vw;
+    left: 8.5vw;
     width: 90vw;
     display: grid;
     grid-template-columns: 0.6fr 0.6fr 0.6fr 0.6fr 0.6fr;
@@ -177,7 +177,7 @@ option {
 .reasons {
     position: absolute;
     top: 170vh;
-    left: 5.5vw;
+    left: 7.3vw;
     width: 90%;
     height: 50px;
     background-color: #000000;
@@ -242,7 +242,7 @@ option {
 .signup2 {
     position: absolute;
     top: 335vh;
-    left: 6vw;
+    left: 7.3vw;
     height: 30px;
     width: 150px;
     align-items: center;
@@ -261,7 +261,7 @@ option {
 .end {
     position: absolute;
     top: 355vh;
-    left: 6vw;
+    left: 7.3vw;
     display: grid;
     grid-template-columns: 250px 250px 250px 250px;
     grid-template-rows: 50px 140px;
@@ -284,7 +284,7 @@ ul {
 .lang {
     position: relative;
     top: 360vh;
-    left: -71vw;
+    left: -68.5vw;
     align-items: start;
     justify-self: center;
     background-color: transparent;
@@ -293,6 +293,6 @@ ul {
 .netflixI {
     position: absolute;
     top: 400vh;
-    left: 6vw;
+    left: 7.3vw;
     color: rgb(173, 177, 177);
 }
