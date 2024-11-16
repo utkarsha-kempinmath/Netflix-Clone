@@ -155,8 +155,8 @@ option {
 
 .opts {
     position: relative;
-    top: 88vh;
-    left: 96px;
+    top: 83vh;
+    left: 110px;
     display: flex;
     gap: 10px;
     z-index: 14;
@@ -177,7 +177,7 @@ option {
 .reasons {
     position: absolute;
     top: 170vh;
-    left: 7.3vw;
+    left: 8.4vw;
     width: 90%;
     height: 50px;
     background-color: #000000;
@@ -199,8 +199,8 @@ option {
     position: relative;
     top: 15px;
     left: 13px;
-    height: 250px;
-    width: 200px;
+    height: 300px;
+    width: 250px;
     grid-row: 2/3;
     align-content: center;
     justify-items: start;
@@ -218,7 +218,7 @@ option {
 .faq {
     position: absolute;
     top: 235vh;
-    left: 5.5vw;
+    left: 8.4vw;
     display: flex;
     flex-direction: column;
 }
@@ -284,7 +284,7 @@ ul {
 .lang {
     position: relative;
     top: 360vh;
-    left: -68.5vw;
+    left: -80vw;
     align-items: start;
     justify-self: center;
     background-color: transparent;
