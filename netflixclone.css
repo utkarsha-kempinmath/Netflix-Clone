@@ -296,11 +296,3 @@ ul {
     left: 7.3vw;
     color: rgb(173, 177, 177);
 }
-
-@media screen and (max-width: 500px) {
-
-    .front {
-        width: 423px;
-        height: 103vh;
-    }
-}
