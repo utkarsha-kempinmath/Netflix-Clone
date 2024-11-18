@@ -297,7 +297,7 @@ ul {
     color: rgb(173, 177, 177);
 }
 
-@media screen and (max-width: 1300px) {
-   .front { max-width: 90vw;
+@media screen and (max-width: 500px) {
+   .front { max-width: 500px;
           }
 }
